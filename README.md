@@ -1,6 +1,7 @@
 # Mesh Growth Simulation
 
-This repository documents my learning from Long Nguyen's workshop on **C# Scripting and Plugin Development for Grasshopper(https://www.youtube.com/watch?v=pFCrIzENDn8&list=PLapoQ_9M-ujfYGOsZProIXPGx-HRfjJ9C&index=1)**. 
+This repository documents my learning from Long Nguyen's workshop on **C# Scripting and Plugin Development for Grasshopper**. 
+
 It focuses on re-implementing the workshop's mesh growth algorithms within Grasshopper, using C# scripting (Mac) and developing a custom component/plugin (Windows).
 
 ---
