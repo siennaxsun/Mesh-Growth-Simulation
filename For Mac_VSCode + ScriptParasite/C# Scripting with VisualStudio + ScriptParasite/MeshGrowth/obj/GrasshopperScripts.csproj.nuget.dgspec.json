@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/siennasun/Library/CloudStorage/GoogleDrive-xsun361gatech@gmail.com/My Drive/ITECH/Learning/Coding & algorithm/Long Ng_Tutorial_C# Plugin for GH/My Learning Outcome_VS(Code)+ScriptParasite/MeshGrowth/GrasshopperScripts.csproj": {}
+  },
+  "projects": {
+    "/Users/siennasun/Library/CloudStorage/GoogleDrive-xsun361gatech@gmail.com/My Drive/ITECH/Learning/Coding & algorithm/Long Ng_Tutorial_C# Plugin for GH/My Learning Outcome_VS(Code)+ScriptParasite/MeshGrowth/GrasshopperScripts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/siennasun/Library/CloudStorage/GoogleDrive-xsun361gatech@gmail.com/My Drive/ITECH/Learning/Coding & algorithm/Long Ng_Tutorial_C# Plugin for GH/My Learning Outcome_VS(Code)+ScriptParasite/MeshGrowth/GrasshopperScripts.csproj",
+        "projectName": "GrasshopperScripts",
+        "projectPath": "/Users/siennasun/Library/CloudStorage/GoogleDrive-xsun361gatech@gmail.com/My Drive/ITECH/Learning/Coding & algorithm/Long Ng_Tutorial_C# Plugin for GH/My Learning Outcome_VS(Code)+ScriptParasite/MeshGrowth/GrasshopperScripts.csproj",
+        "packagesPath": "/Users/siennasun/.nuget/packages/",
+        "outputPath": "/Users/siennasun/Library/CloudStorage/GoogleDrive-xsun361gatech@gmail.com/My Drive/ITECH/Learning/Coding & algorithm/Long Ng_Tutorial_C# Plugin for GH/My Learning Outcome_VS(Code)+ScriptParasite/MeshGrowth/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/siennasun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNrdEBV5Gk85ZeytEzLJTBkgL8L1i56phnAVC+OgXeqlYdKv1PWIBnX7qHGdeDWtCtWdrD256JzmewcZp0beJQ==",
+  "success": true,
+  "projectFilePath": "/Users/siennasun/Library/CloudStorage/GoogleDrive-xsun361gatech@gmail.com/My Drive/ITECH/Learning/Coding & algorithm/Long Ng_Tutorial_C# Plugin for GH/My Learning Outcome_VS(Code)+ScriptParasite/CurveSubdivision/GrasshopperScripts.csproj",
+  "expectedPackageFiles": [
+    "/Users/siennasun/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/siennasun/.nuget/packages/microsoft.netframework.referenceassemblies.net452/1.0.3/microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

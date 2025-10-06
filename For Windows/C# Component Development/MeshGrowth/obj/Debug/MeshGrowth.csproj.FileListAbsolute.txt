@@ -1,0 +1,9 @@
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\bin\MeshGrowth.dll
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\bin\MeshGrowth.pdb
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\bin\PlanktonGh.dll
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\bin\PlanktonGh.xml
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\obj\Debug\MeshGrowth.csproj.AssemblyReference.cache
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\obj\Debug\MeshGrowth.csproj.CoreCompileInputs.cache
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\obj\Debug\MeshGrowth.csproj.Up2Date
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\obj\Debug\MeshGrowth.dll
+C:\Users\siennasun513\Downloads\Long Nyugen_C# Script and Plugin Development for Grasshopper\Day 3\MeshGrowth_VS_00\MeshGrowth\obj\Debug\MeshGrowth.pdb
