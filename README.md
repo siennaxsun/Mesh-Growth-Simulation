@@ -16,7 +16,7 @@ It focuses on re-implementing the workshop's mesh growth algorithms within Grass
 
 ## Approach on Mac
 
-Even though I cannot directly develop custom Grasshopper plugins on Mac, I wanted to practice writing **C# mesh growth scripts** more conveniently.  
+Even though I cannot directly develop custom Grasshopper plugins on Mac, I wanted to practice writing **C# scripts** more conveniently.  
 - The **native C# component editor** in Grasshopper is very limited and hard to use.  
 - I used the **ScriptParasite** plugin (tutorial from ParametricCamp(https://www.youtube.com/watch?v=m-Mf34CvTX4&list=PLx3k0RGeXZ_yZgg-f2k7fO3WxBQ0zLCeU&index=28)) to sync C# code written in **VS Code** to the C# component.  
 - This setup allows:  
