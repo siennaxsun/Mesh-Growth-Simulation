@@ -51,8 +51,8 @@ The repo contains two main folders:
 
 ## References
 
-- Long Nguyen’s workshop: [YouTube Playlist]([https://www.youtube.com/](https://www.youtube.com/watch?v=pFCrIzENDn8&list=PLapoQ_9M-ujfYGOsZProIXPGx-HRfjJ9C&index=1))  
-- Parametric Camp tutorial on ScriptParasite: [YouTube Video]([https://www.youtube.com/](https://youtu.be/m-Mf34CvTX4?si=PwbleTiYMi-r-puh))
+- Long Nguyen’s workshop: [YouTube Playlist](https://www.youtube.com/](https://www.youtube.com/watch?v=pFCrIzENDn8&list=PLapoQ_9M-ujfYGOsZProIXPGx-HRfjJ9C&index=1))  
+- Parametric Camp tutorial on ScriptParasite: [YouTube Video](https://www.youtube.com/](https://youtu.be/m-Mf34CvTX4?si=PwbleTiYMi-r-puh))
 
 ---
 
