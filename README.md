@@ -20,7 +20,7 @@ Even though I cannot directly develop custom Grasshopper plugins on Mac, I wante
 - The **native C# component editor** in Grasshopper is very limited and hard to use.  
 - I used the **ScriptParasite** plugin (tutorial from ParametricCamp) to sync C# code written in **VS Code** to the C# component.  
 - This setup allows:  
-  - Intuitive code editing with **VS Code auto-completion**.  
+  - Intuitive code editing with VS Code auto-completion.  
   - Real-time syncing to Grasshopper components for testing.  
 
 > This setup is purely for learning and experimenting with mesh growth algorithms in Grasshopper on a Mac.
